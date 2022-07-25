@@ -65,7 +65,7 @@ Feito isso vá até import e selecione os arquivos:
 <li> Serverest.postman_collection
 
 </br>
-<img src= "https://user-images.githubusercontent.com/69907918/180757306-0a4f7b18-8858-42fc-8ab4-cae349660024.png" width = 300/>
+<img src= "https://user-images.githubusercontent.com/69907918/180792585-328667cd-11e7-439d-b692-65de50e88d53.png" width = 300/>
 
 Você vai se deparar com a coleção Serverest e toas as pastas com o nome dos endpoints e o fluxo de compras. 
 Você também vai observar que foi importado ambiente local, **sem ele não será possível executar os testes.**
